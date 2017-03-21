@@ -1,0 +1,16 @@
+
+{
+  "post": [{
+    "post_id": 1,
+    "author": "Marc Larkin",
+    "picture": "http://fenntechltd.com/omar/cptr204/blog/wp-content/uploads/2015/10/css3animation-banner.jpg",
+    "title": "CSS Animation",
+    "text": [{
+      "paragraphs": [
+        "Bacon ipsum dolor amet hamburger fatback flank rump boudin porchetta sausage strip steak pig drumstick. Tongue pork chop venison short loin. Pig jerky capicola, short loin chuck rump ball tip shankle doner strip steak pork jowl t-bone. Beef shankle pork loin beef ribs tail, tenderloin spare ribs hamburger chicken drumstick pancetta landjaeger pastrami short ribs. Frankfurter hamburger strip steak, sausage swine tail pancetta picanha cupim pork belly pork loin tenderloin ribeye. Spare ribs pork chop tenderloin pork loin ham salami shankle chicken short ribs.",
+
+        "Shank brisket pig, shoulder beef ribs drumstick pork belly meatloaf. Pastrami short loin chicken boudin alcatra burgdoggen. Leberkas short loin ham hock ribeye capicola prosciutto, cow pastrami jowl corned beef turducken chicken pork chop. Picanha pork tenderloin alcatra, hamburger porchetta venison kielbasa turducken."
+        ]
+      }]
+    }]
+}
