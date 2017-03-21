@@ -1,9 +1,9 @@
-{{#link-to 'post' post.id}}
   <div class="post-link">
-    <img src={{post.image}}/>
+    {{#link-to 'post' post}}
+    <img src={{post.picture}}/>
     <div class="title">
       <h3>{{post.title}}</h3>
-      <h6>By <span>{{post.author}}</span></h6>
+      <h6>By <span class="author">{{post.author}}</span></h6>
     </div>
+    {{/link-to}}
   </div>
-{{/link-to}}

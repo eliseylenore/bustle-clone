@@ -1,1 +1,8 @@
-{{yield}}
+
+<h2>{{post.title}}</h2>
+<img src="{{post.picture}}"/>
+<h5>By <span>{{post.author}}</span></h5>
+
+  {{#each post.paragraph as |thisparagraph|}}
+  <p>{{thisparagraph}}</p>
+  {{/each}}
